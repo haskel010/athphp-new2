@@ -26,4 +26,3 @@ echo <<<XML
   </url>
 
 </urlset>
-XML;
